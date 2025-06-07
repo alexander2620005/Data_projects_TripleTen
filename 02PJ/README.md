@@ -52,7 +52,7 @@ Se analiza a fondo la actividad de los desarrolladores y su impacto en la experi
 También se complementa con análisis del panorama general de apps en el App Store de Shopify.
 
 📸 Imagen:  
-👉 [Poner enlace aquí - Screenshot App Landscape]
+![Image](ShopifyPic/Screenshot 2025-05-08 011840.png)
 
 ---
 
