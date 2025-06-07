@@ -20,7 +20,7 @@ En esta sección se muestran visualizaciones que permiten explorar la relación 
 - El gráfico de dispersión muestra que las apps con respuestas por parte del desarrollador tienden a tener una mejor calificación promedio.
 
 📸 Imagen:  
-👉 [Poner enlace aquí - Screenshot 2025-05-12 111644]
+👉 [Image](ShopifyPic/Screenshot2025-05-12111644)
 
 ---
 
@@ -34,7 +34,7 @@ Se analiza a fondo la actividad de los desarrolladores y su impacto en la experi
 - Se analizan los desarrolladores más receptivos con base en su número de respuestas, filtrando únicamente los casos con más de 500 reseñas.
 
 📸 Imagen:  
-👉 [Poner enlace aquí - Screenshot 2025-05-12 121118]
+👉 [Image](ShopifyPic/Screenshot2025-05-12121118)]
 
 ---
 
@@ -52,7 +52,7 @@ Se analiza a fondo la actividad de los desarrolladores y su impacto en la experi
 También se complementa con análisis del panorama general de apps en el App Store de Shopify.
 
 📸 Imagen:  
-![Image](ShopifyPic/Screenshot 2025-05-08 011840.png)
+![Image](ShopifyPic/Screenshot2025-05-08011840.png)
 
 ---
 
