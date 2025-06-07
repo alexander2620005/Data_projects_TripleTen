@@ -20,7 +20,7 @@ En esta sección se muestran visualizaciones que permiten explorar la relación 
 - El gráfico de dispersión muestra que las apps con respuestas por parte del desarrollador tienden a tener una mejor calificación promedio.
 
 📸 Imagen:  
-👉 [Image](ShopifyPic/Screenshot2025-05-12111644)
+![Image](ShopifyPic/Screenshot2025-05-12111644)
 
 ---
 
@@ -34,7 +34,7 @@ Se analiza a fondo la actividad de los desarrolladores y su impacto en la experi
 - Se analizan los desarrolladores más receptivos con base en su número de respuestas, filtrando únicamente los casos con más de 500 reseñas.
 
 📸 Imagen:  
-👉 [Image](ShopifyPic/Screenshot2025-05-12121118)]
+![Image](ShopifyPic/Screenshot2025-05-12121118)
 
 ---
 
