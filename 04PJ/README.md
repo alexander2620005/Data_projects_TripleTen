@@ -55,4 +55,4 @@ This project analyzes profitability and operational efficiency at the Superstore
 
 ## 📎 View the full dashboard and analysis:
 
-🔗[link] (https://public.tableau.com/app/profile/fabian.benavides.urrunaga/viz/ProjectTabeau_WorkbookF/AvgProfitvsAvgRet?publish=yes)
+🔗[link](https://public.tableau.com/app/profile/fabian.benavides.urrunaga/viz/ProjectTabeau_WorkbookF/AvgProfitvsAvgRet?publish=yes)
